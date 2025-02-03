@@ -1,6 +1,6 @@
 # Users & Posts Dashboard
 
-![Project Banner](public/banner.png) <!-- Add your banner image URL here -->
+![Project Banner](public/banner.png)
 
 A modern dashboard for exploring users and their blog posts, featuring smooth animations and responsive design.
 
@@ -49,9 +49,7 @@ A modern dashboard for exploring users and their blog posts, featuring smooth an
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/your-repo/ConnectSphere.git>
-   cd users-posts-dashboard
-
+   git clone <https://github.com/PriyanshuGupta28/ConnectSphere.git>
    ```
 
 2. Install dependencies
@@ -74,9 +72,13 @@ A modern dashboard for exploring users and their blog posts, featuring smooth an
 🌐 API Integration
 Data Sources
 
+```bash
 Users: GET <https://jsonplaceholder.typicode.com/users>
+```
 
+```bash
 Posts: GET <https://jsonplaceholder.typicode.com/posts>
+```
 
 Patterns
 
