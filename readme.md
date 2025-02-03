@@ -1,6 +1,6 @@
 # Users & Posts Dashboard
 
-![Project Banner](https://via.placeholder.com/1200x400) <!-- Add your banner image URL here -->
+![Project Banner](https://banner.png/1200x400) <!-- Add your banner image URL here -->
 
 A modern dashboard for exploring users and their blog posts, featuring smooth animations and responsive design.
 
@@ -49,7 +49,7 @@ A modern dashboard for exploring users and their blog posts, featuring smooth an
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/your-repo/users-posts-dashboard.git>
+   git clone <https://github.com/your-repo/ConnectSphere.git>
    cd users-posts-dashboard
 
    ```
@@ -88,7 +88,8 @@ Error boundary management
 
 📂 Project Structure
 
-my-app/
+```bash
+ConnectSphere/
 ├── app/
 │ ├── layout.tsx # Root layout
 │ ├── page.tsx # Homepage
@@ -101,21 +102,10 @@ my-app/
 ├── styles/ # Global CSS
 └── tailwind.config.js # TW configuration
 
-🤝 Contributing
-We welcome contributions! Please follow these steps:
-
-Fork the project
-
-Create your feature branch (git checkout -b feature/AmazingFeature)
-
-Commit changes (git commit -m 'Add some AmazingFeature')
-
-Push to branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
+```
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Made with ❤️ by [Your Name] | [Portfolio Link]
+Made with ❤️ by Priyanshu Gupta | Portfolio <https://thepriyanshu.vercel.app/>
 Give a ⭐️ if you find this project interesting!
