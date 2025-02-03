@@ -1,6 +1,6 @@
 # Users & Posts Dashboard
 
-![Project Banner](https://banner.png/1200x400) <!-- Add your banner image URL here -->
+![Project Banner](public/banner.png) <!-- Add your banner image URL here -->
 
 A modern dashboard for exploring users and their blog posts, featuring smooth animations and responsive design.
 
