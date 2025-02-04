@@ -98,8 +98,8 @@ ConnectSphere/
 │ └── users/
 │ ├── [id]/ # Dynamic user route
 │ │ └── page.tsx
-│ └── loading.tsx # Suspense fallback
 ├── components/ # Reusable UI
+├── hooks/  # Reusable hooks
 ├── lib/ # API utilities
 ├── styles/ # Global CSS
 └── tailwind.config.js # TW configuration
