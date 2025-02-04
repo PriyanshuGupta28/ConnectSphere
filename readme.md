@@ -29,7 +29,7 @@ A modern dashboard for exploring users and their blog posts, featuring smooth an
 
 **Core**
 
-- Next.js 13+ (App Router)
+- Next.js (App Router)
 - TypeScript
 
 **Styling & UI**
